@@ -4,9 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 https://www.youtube.com/watch?v=cb1vy1HpVwk
 
 ## Creating the database with sqlite
-`cd api && python`
-`from api import db`
-`db.create_all()`
+```
+cd api && python
+from api import db
+db.create_all()
+```
 
 ## Available Scripts
 
